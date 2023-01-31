@@ -7,7 +7,7 @@ from itertools import islice
 import moviepy.editor as mymovie
 import random
 # specify the URL of the archive here
-url = "https://www.pexels.com/search/videos/luxury%20home/?orientation=portrait"
+url = "https://www.pexels.com/search/videos/puppy/?orientation=portrait4"
 video_links = []
 
 #getting all video links
